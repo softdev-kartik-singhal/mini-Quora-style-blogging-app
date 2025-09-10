@@ -41,8 +41,3 @@ It demonstrates basic CRUD (Create, Read, Update, Delete) operations using serve
 5. Open in your browser :
    ```bash
      http://localhost:8080/posts
-   
-  
-
-
-
