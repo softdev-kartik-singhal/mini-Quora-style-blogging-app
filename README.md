@@ -31,14 +31,18 @@ It demonstrates basic CRUD (Create, Read, Update, Delete) operations using serve
    cd quoralite
 
 2. Install dependencies:
-  ```bash
-  npm install
-
-3. Start the Server :
    ```bash
-  node index.js
-
-4. Open in your browser :
+     npm install
+  
+4. Start the Server:
    ```bash
-  http://localhost:8080/posts
+     node index.js
+
+5. Open in your browser :
+   ```bash
+     http://localhost:8080/posts
+   
+  
+
+
 
